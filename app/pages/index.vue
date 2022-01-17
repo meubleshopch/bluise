@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://media.but.fr/images_produits/produit-zoom/3537390179537_Q.jpg"
+          src="https://meubleshop.ch/241-thickbox_default/commode-castel-3-tiroirs.jpg"
         />
       </div>
     </div>
