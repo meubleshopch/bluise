@@ -14,7 +14,7 @@
             <img
               :alt="post.title"
               class="w-full"
-              :src="post.featuredImage || 'https://source.unsplash.com/random/640x340'"
+              :src="post.featuredImage || 'https://meubleshop.ch/4428-thickbox_default/matelas-azimuth.jpg'"
             />
             <div class="p-6 bg-white">
               <h2 class="text-2xl mb-2">{{ post.title }}</h2>
